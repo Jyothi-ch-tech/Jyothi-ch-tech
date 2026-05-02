@@ -67,13 +67,6 @@ Git • GitHub • Google Colab • VS Code
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Jyothi-ch-tech=Jyothi-ch-tech\&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Jyothi-ch-tech=Jyothi-ch-tech\&layout=compact)
-
----
-
 ## 🏆 Achievements
 
 * 🥈 State Rank 2 in Intermediate Public Examination
