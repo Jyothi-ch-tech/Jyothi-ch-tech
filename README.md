@@ -69,8 +69,8 @@ Git • GitHub • Google Colab • VS Code
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jyothi-ch-tech\&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyothi-ch-tech\&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?yothi-ch-tech=Jyothi-ch-tech\&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?yothi-ch-tech=Jyothi-ch-tech\&layout=compact)
 
 ---
 
