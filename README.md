@@ -9,6 +9,16 @@ Currently focused on **scalable AI solutions, model optimization, and real-world
 
 ## 🚀 Featured Projects
 
+## 🏥 AI Medical Report Analyzer 
+
+🔗 https://github.com/Jyothi-ch-tech/AI-Medical-Report-Analyzer
+
+* Developed an AI-powered application that analyzes medical reports and provides easy-to-understand explanations.
+* Extracted text from PDF reports and used Gemini API to generate summaries and highlight important health observations.
+* Added multilingual support through a simple Streamlit interface to improve accessibility for users
+* Python, Streamlit, Gemini API, PyPDF2
+---
+
 ### 🌿 AI-Based Crop Disease Detection System
 
 🔗 https://github.com/Jyothi-ch-tech/AID103-Jyothi-ch-tech/tree/main/cropguard-ai
